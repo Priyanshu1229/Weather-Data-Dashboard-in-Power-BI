@@ -1,48 +1,36 @@
 # WeatherAPI Power BI Dashboard
 
-# 🌦️ Weather Data Dashboard (Power BI + WeatherAPI)
+## Overview
+This is an interactive Weather Dashboard built using Power BI and WeatherAPI.  
+It displays real-time weather metrics such as temperature, humidity, wind speed, and conditions.  
+I created this project by following an online tutorial and implemented it independently for learning.
 
-## 📌 Project Overview
-This project is an interactive Weather Dashboard built using Power BI with live data from the WeatherAPI.  
-It visualizes real-time weather metrics like temperature, humidity, wind speed, and more.
+## Objectives
+- Fetch live weather data through WeatherAPI  
+- Parse JSON data using Power Query  
+- Build a clean, interactive dashboard in Power BI  
+- Display KPIs and charts for multiple weather parameters  
 
-This project was created by following a tutorial and customizing it during my learning journey.
+## Technologies Used
+- Power BI Desktop  
+- WeatherAPI  
+- Power Query (M Language)  
+- JSON Parsing  
+- DAX (for calculated fields)
 
----
-
-## 🎯 Objectives
-- Fetch live weather data using WeatherAPI
-- Transform API JSON response in Power Query (M Language)
-- Build a clean and interactive Power BI Dashboard
-- Display real-time KPIs such as:
-  - Temperature  
-  - Humidity
-  - AQI
-  - Feels-like temperature  
-  - Weather condition  
-  - Wind speed  
-
----
-
-## 🛠 Technologies Used
-- Power BI Desktop
-- WeatherAPI
-- Power Query (M Language)
-- DAX
-- JSON Parsing
-
----
-
-## 🌦 Dashboard Features
+## Dashboard Features
 - Live weather KPIs  
-- Real-time API data refresh  
-- City-wise weather comparison  
-- Maps & charts for better visualization  
-- Clean UI with icons and color-coded metrics  
+- Temperature, humidity, wind speed, and conditions  
+- City-based weather comparison  
+- Map visualization (optional)  
+- Clean, modern UI with icon-based visuals  
 
----
+## Demo / Screenshots
 
-## 📷 Demo / Screenshots
+```
+![Weather Dashboard](screenshots/weather.png)
+```
+
 
 
 
