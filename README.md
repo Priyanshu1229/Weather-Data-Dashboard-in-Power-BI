@@ -1,53 +1,48 @@
-# Weather-Data-Dashboard-in-Power-BI  
-This repository contains the project I developed which visualises live weather data by integrating WeatherAPI into Power BI.
+# WeatherAPI Power BI Dashboard
 
-The dashboard provides key weather insights (temperature, humidity, wind etc.) for selected locations and is refreshed dynamically.
+# 🌦️ Weather Data Dashboard (Power BI + WeatherAPI)
 
-It’s been built by following a detailed tutorial and then customised by me for learning purposes.
+## 📌 Project Overview
+This project is an interactive Weather Dashboard built using Power BI with live data from the WeatherAPI.  
+It visualizes real-time weather metrics like temperature, humidity, wind speed, and more.
 
+This project was created by following a tutorial and customizing it during my learning journey.
 
-🎯 Objectives
+---
 
-Demonstrate how to fetch live weather data via an API (WeatherAPI) and import it into Power BI.
+## 🎯 Objectives
+- Fetch live weather data using WeatherAPI
+- Transform API JSON response in Power Query (M Language)
+- Build a clean and interactive Power BI Dashboard
+- Display real-time KPIs such as:
+  - Temperature  
+  - Humidity
+  - AQI
+  - Feels-like temperature  
+  - Weather condition  
+  - Wind speed  
 
-Clean, transform and visualise the data in Power BI to provide meaningful insights.
+---
 
-Build interactive visuals (charts, maps, KPIs) for weather monitoring.
+## 🛠 Technologies Used
+- Power BI Desktop
+- WeatherAPI
+- Power Query (M Language)
+- DAX
+- JSON Parsing
 
-Enhance my analytics & visualization skills and showcase them in GitHub.
+---
 
+## 🌦 Dashboard Features
+- Live weather KPIs  
+- Real-time API data refresh  
+- City-wise weather comparison  
+- Maps & charts for better visualization  
+- Clean UI with icons and color-coded metrics  
 
-📷 Demo / Screenshots
+---
 
-
-🛠 Technologies Used
-
-Power BI Desktop – for importing data, cleaning it, creating the dashboard.
-
-WeatherAPI (or other weather data source) – for live weather data retrieval.
-
-Power Query / M language – to call API, transform JSON data.
-
-DAX – for creating calculated measures and KPIs in Power BI.
-
-CSV / Excel or intermediate data tables (if used) – for storing or previewing raw API data.
-
-
-🔍 Features & Insights
-
-
-Fetches live weather data for one or more cities or locations.
-
-Displays current temperature, feels-like temperature, humidity, wind speed, etc.
-
-Time-based visuals showing changes over time (if you included historical or forecast data).
-
-Interactive filters/slicers (e.g., by city, by date/time).
-Map visual (if employed) showing location and weather conditions.
-
-(Optional) Alert or indicator if weather metrics exceed certain threshold (humidity high, wind high etc.).
-
-Custom formatting, user-friendly dashboard UI.
+## 📷 Demo / Screenshots
 
 
 
