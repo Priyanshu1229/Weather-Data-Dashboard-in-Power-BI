@@ -28,7 +28,11 @@ I created this project by following an online tutorial and implemented it indepe
 ## Demo / Screenshots
 
 ```
-![Weather Dashboard](screenshots/weather.png)
+![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/dashboard.png)
+
+![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/dashboard.png)
+
+
 ```
 
 
