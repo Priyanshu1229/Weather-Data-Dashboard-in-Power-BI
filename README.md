@@ -27,13 +27,13 @@ I created this project by following an online tutorial and implemented it indepe
 
 ## Demo / Screenshots
 
-```
-![Dashboard Preview](https://github.com/Priyanshu1229/Weather-Data-Dashboard-in-Power-BI/blob/main/Report%20SS/Indore%20%20Weather.png)
+
+![image](https://github.com/Priyanshu1229/Weather-Data-Dashboard-in-Power-BI/blob/main/Report%20SS/Indore%20%20Weather.png)
 
 ![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/dashboard.png)
 
 
-```
+
 
 
 
